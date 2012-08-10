@@ -1,4 +1,4 @@
-Dependecies: Granite, Gtk
+Dependecies: Granite, Gtk, Vala
 
 I think that all.
 
